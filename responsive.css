@@ -510,7 +510,6 @@
     height: fit-content;
   }
   .info{
-    
     width: 270px;
     margin-right: 40px;
   }
@@ -568,6 +567,397 @@
   }
   #final-p{
     margin-left: -8px;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 328px){
+  .h1_container{
+    width: 300px;
+  }
+  
+  .link-btn a{
+    width: 300px;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  #avaliacao{
+    width: 210px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 210px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+    margin-left: -20px;
+  }
+  .info{
+    width: 230px;
+  }
+  #sigilo{
+    width: 230px;
+  margin-left: 11px;
+  height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    
+  }
+  #p_inf{
+    width: 230px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -50px;
+    
+  }
+  #p_inf1{
+  width: 100%;
+  margin-left: -20px;
+  }
+  .cfp{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  
+  .link-btn-two a{
+    width: 270px;
+    font-size: 12px;
+  }
+  .obs-content-one,
+.obs-content-two,
+.obs-content-three{
+  width: 250px;
+  
+}
+.questions{
+  width: 235px;
+    margin-left: 11px;
+    height: fit-content;
+}
+footer p:nth-child(1){
+  font-size: 20px;
+}
+.whatsApp{
+  width: 250px;
+}
+.e-mail{
+  width: 250px;
+}
+#final-p{
+  margin-left: -5px;
+}
+}
+@media (min-width: 329px) and (max-width: 340px){
+  .h1_container{
+    width: 300px;
+  }
+  .link-btn a{
+    width: 300px;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  #avaliacao{
+    width: 220px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 220px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+    margin-left: -10px;
+  }
+  .info{
+    width: 220px;
+  }
+  #sigilo{
+    width: 240px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    padding: 2px;
+  }
+  #p_inf1{
+    font-size: 13px;
+    margin-left: -10px;
+  }
+  #p_inf{
+    width: 250px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -5px;
+  }
+  .cfp{
+    width: 240px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 230px;
+    margin-left: 15px;
+    height: fit-content;
+  }
+  .link-btn-two a{
+    width: 280px;
+    margin-top: 50px;
+    font-size: 12px;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 250px;
+    margin-left: 5px;
+  }
+  .questions{
+    width: 230px;
+    margin-left: 20px;
+    height: fit-content;
+  }
+  footer p:nth-child(1){
+    font-size: 18px;
+  }
+  #final-p{
+    margin-left: -8px;
+  }
+}
+@media (min-width: 341px) and (max-width: 353px){
+  .h1_container{
+    width: 300px;
+  }
+  .p-text{
+    width: 300px;
+  }
+  .link-btn a{
+    width: 300px;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  #avaliacao{
+    width: 235px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 235px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+    margin-left: -10px;
+  }
+  .info{
+    width: 220px;
+  }
+  #sigilo{
+    width: 240px;
+    margin-left: 15px;
+    height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    padding: 2px;
+  }
+  #p_inf1{
+    font-size: 13px;
+    margin-left: -10px;
+  }
+  #p_inf{
+    width: 250px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -5px;
+  }
+  .cfp{
+    width: 240px;
+    margin-left: 16px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 240px;
+    margin-left: 17px;
+    height: fit-content;
+  }
+  .link-btn-two a{
+    width: 280px;
+    margin-top: 50px;
+    font-size: 12px;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 260px;
+    margin-left: 7px;
+  }
+  .questions{
+    width: 233px;
+    margin-left: 25px;
+    height: fit-content;
+  }
+  footer p:nth-child(1){
+    font-size: 18px;
+  }
+  #final-p{
+    margin-left: -2px;
+  }
+}
+@media (min-width: 354px) and (max-width: 366px){
+  #avaliacao{
+    width: 250px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 250px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+    margin-left: -5px;
+  }
+  .info{
+    width: 240px;
+  }
+  #sigilo{
+    width: 260px;
+    margin-left: 15px;
+    height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    padding: 2px;
+  }
+  #p_inf1{
+    font-size: 13px;
+    margin-left: -10px;
+  }
+  #p_inf{
+    width: 250px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -5px;
+  }
+  .cfp{
+    width: 260px;
+    margin-left: 16px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 260px;
+    margin-left: 17px;
+    height: fit-content;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 280px;
+    margin-left: 5px;
+  }
+  .questions{
+    width: 255px;
+    margin-left: 20px;
+    height: fit-content;
+  }
+  #final-p{
+    margin-left: 7px;
+  }
+
+}
+@media (min-width: 367px) and (max-width: 373px){
+  #avaliacao{
+    width: 260px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 260px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+    margin-left: -5px;
+  }
+  .info{
+    width: 240px;
+  }
+  #sigilo{
+    width: 260px;
+    margin-left: 15px;
+    height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    padding: 2px;
+  }
+  #p_inf1{
+    font-size: 13px;
+    margin-left: -10px;
+  }
+  #p_inf{
+    width: 250px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -5px;
+  }
+  .cfp{
+    width: 260px;
+    margin-left: 16px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 260px;
+    margin-left: 17px;
+    height: fit-content;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 280px;
+    margin-left: 5px;
+  }
+  .questions{
+    width: 255px;
+    margin-left: 20px;
+    height: fit-content;
+  }
+  #final-p{
+    margin-left: 17px;
   }
 }
 
