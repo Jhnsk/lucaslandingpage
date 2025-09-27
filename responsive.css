@@ -1,0 +1,578 @@
+@media (max-width: 1024px){
+    .obs-div-content{
+        width: 900px;
+        
+    }
+}
+
+@media (max-width: 768px){
+    html{
+        overflow-x: hidden;
+    }
+    .h1_container h1{
+        font-size: 50px;
+    }
+    
+    .p-text{
+        font-size: 18px;
+    }
+   .icon-content{
+    margin-left: 10px;
+   }
+   .h2_reveal{
+    margin-left: 0px;
+    
+   }
+   #avaliacao{
+    margin-left: 35px;
+    width: 630px;
+   }
+   #avaliacao p{
+    font-size: 15px;
+   }
+   
+   #Sobre-mim{
+   margin-left: 35px;
+   width: 630px;
+   }
+   #Sobre-mim p{
+    font-size: 15px;
+   }
+   .p_etapas p{
+    font-size: 18px;
+    padding: 20px;
+   }
+   #funciona{
+    margin-left: 0px;
+   }
+   .info{
+    width: 650px;
+   }
+   #sigilo{
+    margin-left: 35px;
+   width: 630px;
+   }
+   .sigilo_infos{
+   width: 660px;
+   }
+   .cfp{
+    width: 630px;
+    margin-left: 35px;
+   }
+   .cfp p{
+    font-size: 16px;
+   }
+   .agendar{
+    width: 630px;
+    margin-left: 35px;
+   }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 180px;
+    }
+    .observation_content{
+        margin-left: 28px;
+    }
+    .questions{
+        width: 630px;
+        margin-left: 35px;
+    }
+
+    footer{
+        width: 100vw;
+    }
+    .traço{
+        width: 400px;
+    }
+    .question-div p:nth-child(1){
+        font-size: 25px;
+    }
+}
+@media (max-width: 425px){
+    .h1_container{
+        width: 400px;
+        height: 150px;
+        margin-top: -40px;
+        margin-bottom: -40px;
+        
+    }
+    .h1_container h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .p-text_content{
+        margin-top: 2px; 
+        width: 400px;
+    }
+    .p-text{
+        font-size: 14px;
+    }
+    .link-btn a{
+        width: 370px;
+        font-size: 16px;
+    }
+    .link-btn-two a{
+        width: 370px;
+        font-size: 16px;
+    }
+    .icon-content{
+        margin-left: -5px;
+    }
+    .h2_reveal{
+        width: 100vw;
+        font-size: 20px;
+    }
+    #avaliacao{
+        width: 320px;
+        height: 300px;
+        margin-left: 20px;
+    }
+   #Sobre-mim{
+    width: 320px;
+    height: 300px;
+    margin-left: 20px;
+   }
+   .p_etapas{
+    margin-top: -40px;
+   }
+   .p_etapas p{
+    font-size: 16px;
+   }
+  
+  .content_function{
+    width: 380px;
+    margin-bottom: 10px;
+    height: inherit;
+  }
+  .numbers .number {
+    font-size: 40px;
+    margin-top: -70px;
+  }
+  #sigilo{
+    width: 330px;
+    height: 300px;
+    margin-left: 15px;
+  }
+  .sigilo_infos{
+    width: 370px;
+  }
+  .sigilo_infos p:nth-child(1){
+    font-size: 18px;
+  }
+  .cfp{
+    width: 330px;
+    height: 150px;
+    margin-left: 15px;
+  }
+  .cfp p{
+    font-size: 15px;
+  }
+  .agendar{
+    width: 330px;
+    margin-left: 15px;
+  }
+  .agendar p:nth-child(1){
+    font-size: 16px;
+    text-align: center;
+
+  }
+  .agendar p:nth-child(2){
+    font-size: 15px;
+    margin-top: -5px;
+    text-align: center;
+  }
+  .observation_content{
+    width: 380px;
+    height: 330px;
+    margin-left: 20px;
+    
+  }
+  .obs-div-content{
+    width: inherit;
+    height: 330;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+  }
+  .obs-content-one,
+  .obs-content-two{
+    width: 140px;
+    height: 130px;
+    border-radius: 10px;
+    border: 2px solid #e2e8f0;
+    
+  }
+  .obs-content-one p:nth-child(1){
+    font-size: 18px;
+    margin-top: -5px; 
+  }
+  .obs-content-one p:nth-child(2){
+    font-size: 15px;
+    line-height: 16px;
+    margin-top: 10px;
+  }
+  .obs-content-two p:nth-child(1){
+    font-size: 18px;
+    margin-top: -10px;
+    
+  }
+  .obs-content-two p:nth-child(2){
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .obs-content-three p:nth-child(1){
+    font-size: 18px;
+    
+  }
+  .obs-content-three{
+    grid-column: 1 / -1;
+    width: 340px;
+    height: 100px;
+  }
+  .questions{
+    width: 330px;
+    margin-left: 15px;
+  }
+  question-div{
+    width: 330px;
+  }
+  .question-div p:nth-child(1){
+    color:rgb(39, 80, 170);
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .question-div p:nth-child(2),
+  p:nth-child(4),
+  p:nth-child(6),
+  p:nth-child(8),
+  p:nth-child(10){
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color:rgba(39, 80, 170, 0.8);
+  }
+  .question-div p:nth-child(3),
+  p:nth-child(5),
+  p:nth-child(7),
+  p:nth-child(9),
+  p:nth-child(11){
+  color: rgb(100, 116, 139);
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 18px;
+  }
+  .footer_div_info{
+    gap: 5px;
+    margin-left: -25px;
+  }
+  .e-mail{
+    width: 180px;
+  }
+  .e-mail p:nth-child(1){
+    font-size: 14px;
+  }
+  .e-mail p:nth-child(2){
+    font-size: 12px;
+  }
+  .whatsApp p:nth-child(1){
+    font-size: 14px;
+  }
+  .whatsApp p:nth-child(2){
+    font-size: 12px;
+  }
+  .traço{
+    margin-left: -30px;
+  }
+  #final-p{
+    width: 400px;
+    font-size: 12px;
+    text-align: center;
+    margin-left: -5px;
+  }
+}
+@media (max-width: 375px){
+  .h1_container{
+    height: 130px;
+    width: 350px;
+  }
+  .h1_container h1{
+    font-size: 26px;
+  }
+  .p-text_content{
+    width: 300px;
+  }
+  .p-text{
+    font-size: 12px;
+  }
+  .img-container{
+    width: 200px;
+    height: 200px;
+
+  }
+  .img-container img{
+    width: inherit;
+    height: inherit;
+  }
+  .principal{
+    font-size: 12px;
+  }
+  .link-btn a{
+    width: 330px;
+    font-size: 14px;
+  }
+  #avaliacao{
+    width: 270px;
+    margin-right: 10px;
+  }
+  #avaliacao p:nth-child(1){
+    font-size: 14px;
+    margin-bottom: -5px;
+  }
+  #avaliacao p:nth-child(2){
+    font-size: 12px;
+  }
+  #Sobre-mim{
+    width: 270px;
+    margin-right: 10px;
+  }
+  #Sobre-mim p{
+    font-size: 12px;
+  }
+  .p_etapas{
+    margin-top: -40px;
+   }
+   .p_etapas p{
+    font-size: 14px;
+   }
+  
+  .content_function{
+    width: 330px;
+    margin-bottom: -20px;
+    height: inherit;
+    
+  }
+  .numbers .number {
+    font-size: 30px;
+    margin-top: -70px;
+  }
+  .info p:nth-child(1){
+    font-size: 16px;
+  }
+  .info p:nth-child(2){
+    font-size: 14px;
+  }
+  #sigilo{
+    width: 270px;
+    height: 220px;
+    margin-left: 20px;
+  }
+  #sigilo_infos{
+    width: 270px;
+    margin-left: 20px;
+  }
+  #p_inf1{
+    font-size: 14px;
+    text-align: center;
+    width: 300px;
+    margin-left: 25px;
+  }
+  #p_inf{
+    font-size: 12px;
+    width: 300px;
+    margin-left: 20px;
+  }
+ 
+   .cfp{
+    width: 267px;
+    margin-left: 22px;
+   }
+   .cfp p:nth-child(1){
+    font-size: 14px;
+   }
+  .agendar{
+    width: 270px;
+  }
+  .agendar p:nth-child(1){
+    font-size: 14px;
+  }
+  .agendar p:nth-child(2){
+    font-size: 14px;
+  }
+  .link-btn-two a{
+    width: 300px;
+    font-size: 12px;
+  }
+
+  .observation_content{
+    margin-bottom: -50px;
+  }
+  .obs-div-content{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 350px;
+    margin-left: -40px;
+    gap: 5px;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 295px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .obs-content-one p:nth-child(1){
+    margin-top: 10px;
+    margin-bottom: -1px;
+  }
+  .obs-content-one p:nth-child(2){
+    line-height: -10px;
+  }
+  .questions{
+    width: 275px;
+    margin-left: 20px;
+    height: fit-content;
+    margin-bottom: -80px;
+  }
+
+  footer p:nth-child(1){
+    font-size: 22px;
+    margin-left: -30px;
+  }
+  .footer_div_info{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .whatsApp{
+    width: 300px;
+  }
+  .whatsApp p:nth-child(1){
+    margin-left: 1px;
+  }
+  .whatsApp p:nth-child(2){
+    font-size: 16px;
+  }
+  .e-mail{
+    width: 300px;
+    margin-left: -10px;
+  }
+  .e-mail p:nth-child(1){
+    margin-left: 1px;
+  }
+  .e-mail p:nth-child(2){
+    font-size: 16px;
+  }
+  .traço{
+    display: none;
+    
+  }
+  #final-p{
+    width: 300px;
+    margin-left: 25px;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+}
+@media (max-width: 320px){
+  .h1_container{
+    width: 310px;
+    
+  }
+  .h1_container h1{
+    font-size: 22px;
+  }
+  .p-text{
+    font-size: 12px;
+  }
+  .link-btn a{
+    width: 300px;
+    margin-top: 50px;
+    font-size: 12px;
+  }
+  #avaliacao{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  #Sobre-mim{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  #funciona{
+    width: fit-content;
+    height: fit-content;
+  }
+  .info{
+    
+    width: 270px;
+    margin-right: 40px;
+  }
+  #sigilo{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .sigilo_infos {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    padding: 2px;
+  }
+  #p_inf1{
+    font-size: 13px;
+    margin-left: -10px;
+  }
+  #p_inf{
+    width: 250px;
+    font-size: 13px;
+    word-wrap: wrap;
+    word-break: break-all;
+    margin-left: -5px;
+  }
+  .cfp{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .agendar{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  .link-btn-two a{
+    width: 280px;
+    margin-top: 50px;
+    font-size: 12px;
+  }
+  .obs-content-one,
+  .obs-content-two,
+  .obs-content-three{
+    width: 250px;
+  }
+  .questions{
+    width: 230px;
+    margin-left: 11px;
+    height: fit-content;
+  }
+  footer p:nth-child(1){
+    font-size: 18px;
+  }
+  #final-p{
+    margin-left: -8px;
+  }
+}
+
+
+ 
+
+
+
