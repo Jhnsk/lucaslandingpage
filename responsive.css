@@ -1,968 +1,1589 @@
-@media (max-width: 1024px){
+@media (min-width: 1251px) and (max-width: 1683px){
     .obs-div-content{
-        width: 900px;
-        
+        width: 53rem; 
     }
 }
-
-@media (max-width: 768px){
-    html{
-        overflow-x: hidden;
+@media (min-width: 904px) and (max-width: 1250px){
+    .obs-div-content{
+        width: 55rem; 
+    }
+    
+}
+@media (min-width: 850px) and (max-width: 903px){
+    .obs-div-content{
+        width: 50rem; 
+    }
+    #avaliacao{
+        width: 48rem;
+    }
+    #Sobre-mim{
+        width: 48rem;
+    }
+    #funciona{
+        width: 55rem;
+    }
+    .info{
+        width: 45rem;
+    }
+    #sigilo{
+        width: 48rem;
+    }
+    .sigilo_infos{
+        width: 50rem;
+    }
+    .cfp{
+        width: 48rem;
+    }
+    .agendar{
+        width: 48rem;
+    }
+    .questions{
+        width: 48rem;
+    }
+    .traço{
+        width: 600px;
+    }
+}
+@media (min-width: 798px) and (max-width: 849px){
+    .obs-div-content{
+        width: 48rem; 
+    }
+    #avaliacao{
+        width: 45rem;
+    }
+    #Sobre-mim{
+        width: 45rem;
+    }
+    #funciona{
+        width: 50rem;
+    }
+    .info{
+        width: 40rem;
+    }
+    #sigilo{
+        width: 45rem;
+    }
+    .sigilo_infos{
+        width: 48rem;
+    }
+    #p_inf1{
+        font-size: 19px;
+    }
+    .cfp{
+        width: 45rem;
+    }
+    .agendar{
+        width: 45rem;
+    }
+    .questions{
+        width: 45rem;
+    }
+    .traço{
+        width: 600px;
+    }
+}
+@media (min-width: 760px) and (max-width: 797px){
+    .h1_container{
+        width: 48rem;
     }
     .h1_container h1{
-        font-size: 50px;
+        font-size: 40px;
     }
-    
     .p-text{
-        font-size: 18px;
+       font-size: 18px;
     }
-   .icon-content{
-    margin-left: 10px;
-   }
-   .h2_reveal{
-    margin-left: 0px;
+    .obs-div-content{
+        width: 45rem; 
+    }
+    #avaliacao{
+        width: 42rem;
+    }
+    #Sobre-mim{
+        width: 42rem;
+    }
+    .p_etapas{
+        
+        width: 45rem;
+        align-self: center;
+        margin-left: 25px;
+    }
+    .p_etapas p{
+       font-size: 19px;
+    }
+    #funciona{
+        width: 50rem;
+    }
+    .info{
+        width: 40rem;
+    }
+    #sigilo{
+        width: 42rem;
+    }
+    .sigilo_infos{
+        width: 46rem;
+    }
+    #p_inf1{
+        font-size: 19px;
+    }
+    .cfp{
+        width: 42rem;
+    }
+    .agendar{
+        width: 42rem;
+    }
+    .questions{
+        width: 42rem;
+    }
+    .traço{
+        width: 500px;
+    }
+    #final-p{
+       
+        width: 42rem;
+        margin-left: 25px;
+    }
+}
+@media (min-width: 720px) and (max-width: 759px){
+    .h1_container{
+        width: 48rem;
+    }
+    .h1_container h1{
+        font-size: 40px;
+    }
+    .p-text{
+       font-size: 18px;
+    }
+    .h2_reveal{
+        width: 45rem;
+        margin-left: 20px;
+        font-size: 30px;
+    }
+    .obs-div-content{
+        width: 43rem;
+    }
+    #avaliacao{
+        width: 40rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 40rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        width: 42rem;
+        align-self: center;
+        margin-left: 25px;
+    }
+    .p_etapas p{
+       font-size: 19px;
+    }
+    #funciona{
+        width: 44rem;
+        margin-left: 25px;
+    }
+    .info{
+        width: 38rem;
+    }
+    #sigilo{
+        width: 40rem;
+    }
+    .sigilo_infos{
+        width: 44rem;
+    }
+    #p_inf1{
+        font-size: 19px;
+    }
+    .cfp{
+        width: 40rem;
+    }
+    .agendar{
+        width: 40rem;
+    }
+    .questions{
+        width: 40rem;
+    }
+    .traço{
+        width: 500px;
+    }
+    #final-p{
+        width: 40rem;
+        margin-left: 30px;
+    }
+}
+@media (min-width: 680px) and (max-width: 719px){
+    .h1_container{
+        width: 42rem;
+        
+    }
+    .h1_container h1{
+        font-size: 38px;
+    }
+    .p-text{
+       font-size: 18px;
+       width: 42rem;
+       margin-left: 14px;
+       margin-top: 30px;
+       
+    }
+    .h2_reveal{
+        width: 45rem;
+        margin-left: -5px;
+        font-size: 30px;
+    }
+    .obs-div-content{
+        width: 40rem;
+        margin-left: 5px;
+    }
+    #avaliacao{
+        width: 37rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 37rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        width: 40rem;
+        align-self: center;
+        margin-left: 35px;
+    }
+    .p_etapas p{
+       font-size: 19px;
+    }
+    #funciona{
+        width: 40rem;
+        margin-left: 35px;
+       
+    }
+    .info{
+        width: 35rem;
+    }
+    #sigilo{
+        width: 37rem;
+        
+    }
+    .sigilo_infos{
+        width: 40rem;
+    }
+    #p_inf1{
+        font-size: 17px;
+    }
+    .cfp{
+        width: 37rem;
+    }
+    .agendar{
+        width: 37rem;
+        height: fit-content;
+    }
+    .agendar p:nth-child(1){
+        font-size: 17px;
+    }
+    .questions{
+        width: 37rem;
+        height: fit-content;
+    }
+    .traço{
+        width: 500px;
+    }
+    #final-p{
+        width: 37rem;
+        align-self: center;
+       
+    }
+}
+@media (min-width: 646px) and (max-width: 679px){
+    .h1_container{
+        width: 40rem;
+        
+    }
+    .h1_container h1{
+        font-size: 35px;
+    }
+    .p-text{
+       font-size: 17px;
+       width: 40rem;
+       margin-left: 30px;
+       margin-top: 30px;
+       
+    }
+    .h2_reveal{
+        width: 43rem;
+        margin-left: -10px;
+        font-size: 30px;
+    }
     
-   }
-   #avaliacao{
-    margin-left: 35px;
-    width: 630px;
-   }
-   #avaliacao p{
-    font-size: 15px;
-   }
-   
-   #Sobre-mim{
-   margin-left: 35px;
-   width: 630px;
-   }
-   #Sobre-mim p{
-    font-size: 15px;
-   }
-   .p_etapas p{
-    font-size: 18px;
-    padding: 20px;
-   }
-   #funciona{
-    margin-left: 0px;
-   }
-   .info{
-    width: 650px;
-   }
-   #sigilo{
-    margin-left: 35px;
-   width: 630px;
-   }
-   .sigilo_infos{
-   width: 660px;
-   }
-   .cfp{
-    width: 630px;
-    margin-left: 35px;
-   }
-   .cfp p{
-    font-size: 16px;
-   }
-   .agendar{
-    width: 630px;
-    margin-left: 35px;
-   }
+    #avaliacao{
+        width: 34rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 34rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        width: 38rem;
+        align-self: center;
+        margin-left: 35px;
+    }
+    .p_etapas p{
+       font-size: 19px;
+    }
+    #funciona{
+        width: 36rem;
+        margin-left: 50px;
+       
+    }
+    .info{
+        width: 32rem;
+    }
+    #sigilo{
+        width: 34rem;
+        
+    }
+    .sigilo_infos{
+        width: 38rem;
+    }
+    #p_inf1{
+        font-size: 16px;
+    }
+    #p_inf{
+        font-size: 16px;
+    }
+    .cfp{
+        width: 34rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 17px;
+    }
+    .agendar{
+        width: 34rem;
+        height: fit-content;
+    }
+    .agendar p:nth-child(1){
+        font-size: 16px;
+    }
+    .obs-div-content{
+        width: 38rem;
+        margin-left: 5px;
+    }
+    
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 34rem;
+        height: fit-content;
+    }
+    .traço{
+        width: 500px;
+    }
+    #final-p{
+        width: 37rem;
+        align-self: center;
+    }
+}
+@media (min-width: 600px) and (max-width: 645px){
+    .h1_container{
+        width: 38rem; 
+        
+    }
+    .h1_container h1{
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .p-text{
+       font-size: 17px;
+       width: 36rem;
+       margin-left: 60px;
+       margin-top: 20px;
+    }
+    .h2_reveal{
+        width: 40rem;
+        font-size: 25px;
+    }
+    
+    #avaliacao{
+        width: 32rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 32rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        width: 34rem;
+        align-self: center;
+        margin-left: 45px;
+    }
+    .p_etapas p{
+       font-size: 19px;
+    }
+    #funciona{
+        width: 34rem;
+        margin-left: 50px;
+       
+    }
+    .content_function{
+        margin-bottom: 20px;
+    }
+    .info{
+        width: 30rem;
+    }
+    
+    #sigilo{
+        width: 32rem;
+        height: 200px;
+    }
+    .sigilo_infos{
+        width: 34rem;
+    }
+    #p_inf1{
+        font-size: 16px;
+    }
+    #p_inf{
+        font-size: 16px;
+    }
+    .cfp{
+        width: 32rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 17px;
+    }
+    .agendar{
+        width: 32rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 16px;
+        text-align: center;
+    }
+    .obs-div-content{
+        width: 36rem;
+        margin-left: 5px;
+    }
+    
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 32rem;
+        height: fit-content;
+    }
+    .traço{
+        width: 500px;
+    }
+    #final-p{
+        width: 34rem;
+        align-self: center;
+    }
+}
+@media (min-width: 553px) and (max-width: 599px){
+    .h1_container{
+        width: 36rem; 
+    }
+    .h1_container h1{
+        font-size: 40px;
+    }
+    .p-text{
+       font-size: 17px;
+       width: 36rem;
+       margin-left: 60px;
+       margin-top: 20px;
+    }
+    .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        font-size: 25px;
+       
+    }
+    
+    #avaliacao{
+        width: 28rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 28rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        
+    }
+    .p_etapas p{
+       font-size: 17px;
+    }
+    #funciona{
+        width: 26rem;
+        margin-left: 100px;
+       
+    }
+    .content_function{
+        margin-bottom: 20px;
+    }
+    .info{
+        width: 25rem;
+    }
+    
+    #sigilo{
+        width: 26rem;
+        height: 200px;
+    }
+    .sigilo_infos{
+        width: 28rem;
+    }
+    #p_inf1{
+        font-size: 16px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 26rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 15px;
+    }
+    .agendar{
+        width: 26rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 16px;
+        text-align: center;
+    }
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 26rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: -45px;
+    }
     .obs-content-one,
     .obs-content-two,
     .obs-content-three{
-        width: 180px;
+        width: 26rem;
     }
-    .observation_content{
-        margin-left: 28px;
-    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
     .questions{
-        width: 630px;
-        margin-left: 35px;
+        width: 26rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 26px;
+    }
+    .traço{
+        width: 500px;
+    }
+    
+    footer{
+        height: fit-content;
+    }
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
+    }
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 30rem;
+        align-self: center;
     }
 
-    footer{
+}
+@media (min-width: 510px) and (max-width: 552px){
+    .h1_container{
+        width: 32rem; 
+        
+    }
+    .h1_container h1{
+        font-size: 38px;
+    }
+    .p-text{
+       font-size: 17px;
+       width: 30rem;
+       margin-left: 110px;
+       margin-top: 20px;
+    }
+    .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
         width: 100vw;
+        font-size: 23px;
+    }
+    
+    #avaliacao{
+        width: 26rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 26rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 28rem;
+        margin-left: 50px;
+        
+        
+    }
+    .p_etapas p{
+       font-size: 16px;
+    }
+    #funciona{
+        width: 22rem;
+        margin-left: 100px;
+       
+    }
+    .content_function{
+        margin-bottom: 28px;
+        margin-left: 10px;
+    }
+    .info{
+        width: 23rem;
+    }
+    
+    #sigilo{
+        width: 26rem;
+        height: 200px;
+    }
+    .sigilo_infos{
+        width: 28rem;
+    }
+    #p_inf1{
+        font-size: 16px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 26rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 15px;
+    }
+    .agendar{
+        width: 26rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 16px;
+        text-align: center;
+    }
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 26rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: -45px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 26rem;
+    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 25rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 26px;
     }
     .traço{
         width: 400px;
     }
-    .question-div p:nth-child(1){
-        font-size: 25px;
+    
+    footer{
+        height: fit-content;
+    }
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
+    }
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 26rem;
+        align-self: center;
     }
 }
-@media (max-width: 425px){
+@media (min-width: 450px) and (max-width: 509px){
     .h1_container{
+        width: 28rem; 
+    }
+    .h1_container h1{
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .p-text{
+       font-size: 14px;
+       width: 26rem;
+       margin-left: 143px;
+       margin-top: 25px;
+    }
+    .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        font-size: 22px;
+    }
+    
+    #avaliacao{
+        width: 23rem;
+        height: fit-content;
+    }
+    #Sobre-mim{
+        width: 23rem;
+        height: fit-content;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 26rem;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        margin-top: -20px;
+    }
+    .p_etapas p{
+       font-size: 16px;
+    }
+    #funciona{
+        width: 19rem;
+        margin-left: 85px;
+       
+    }
+    .content_function{
+        margin-bottom: 60px;
+        margin-left: 10px;
+    }
+    .info{
+        width: 20rem;
+    }
+    
+    #sigilo{
+        width: 23rem;
+        height: 200px;
+    }
+    .sigilo_infos{
+        width: 25rem;
+    }
+    #p_inf1{
+        font-size: 14px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 23rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 15px;
+    }
+    .agendar{
+        width: 23rem;
+        height:200px;
+    }
+    .link-btn-two a{
+        width: 350px;
+        font-size: 15px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 16px;
+        text-align: center;
+    }
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 27rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 24rem;
+    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 23rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 24px;
+        margin-left: -13px;
+    }
+    .traço{
         width: 400px;
-        height: 150px;
-        margin-top: -40px;
-        margin-bottom: -40px;
+    }
+    
+    footer{
+        height: fit-content;
+    }
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
+    }
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 26rem;
+        align-self: center;
+    }
+}
+@media (max-width: 449px){
+    .h1_container{
+        width: 26rem; 
+    }
+    .h1_container h1{
+        font-size: 28px;
+        line-height: 44px;
+    }
+    .p-text{
+       font-size: 13px;
+       width: 24rem;
+       margin-left: 153px;
+       margin-top: 25px;
+    }
+    .link-btn a{
+        width: 380px;
+        font-size: 14px;
+    }
+    .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        font-size: 19px;
+    }
+    
+    #avaliacao{
+        width: 20rem;
+        height: fit-content;  
+    }
+    #avaliacao p{
+        font-size: 15px;
+    }
+    #Sobre-mim{
+        width: 20rem;
+        height: fit-content;
+    }
+    #Sobre-mim p{
+        font-size: 15px;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 24rem;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        margin-top: -20px;
+    }
+    .p_etapas p{
+       font-size: 14px;
+    }
+    #funciona{
+        width: 20rem;
+        margin-left: 85px;
+       
+    }
+    .content_function{
+        margin-bottom: 60px;
+        margin-left: -35px;
+        
+    }
+    .info{
+        width: 20rem;
+    }
+    
+    #sigilo{
+        width: 20rem;
+        height: fit-content;
+    }
+    .sigilo_infos{
+        width: 22rem;
+    }
+    #p_inf1{
+        font-size: 14px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 20rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 14px;
+    }
+    
+    .agendar{
+        width: 20rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 14px;
+        text-align: center;
+    }
+    .agendar p:nth-child(2){
+        font-size: 14px;
+    }
+    .link-btn-two a{
+        width: 350px;
+        font-size: 15px;
+    }
+    
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 27rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 25px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 22rem;
+    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 20rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 20px;
+        margin-left: -13px;
+    }
+    .question-div p:nth-child(2),
+    p:nth-child(4),
+    p:nth-child(6),
+    p:nth-child(8),
+    p:nth-child(10){
+        font-size: 18px;
+    }
+    .question-div p:nth-child(3),
+    p:nth-child(5),
+    p:nth-child(7),
+    p:nth-child(9),
+    p:nth-child(11){
+        font-size: 15px;
+}
+    .traço{
+        width: 350px;
+    }
+    
+    footer{
+        height: fit-content;
+    }
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
+    }
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 26rem;
+        align-self: center;
+    }
+}
+@media  (min-width: 400px) and (max-width: 425px){
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 23rem;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        margin-top: -20px;
+    }
+    .p_etapas p{
+       font-size: 14px;
+    }
+    #funciona{
+        width: 18rem;
+        margin-left: 85px;
+       
+    }
+    .content_function{
+        margin-bottom: 65px;
+        margin-left: -35px;
+        
+    }
+    .info{
+        width: 18rem;
+    }
+
+    .obs-div-content{
+        width: 25rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 20rem;
+    }
+}
+@media (min-width: 360px) and (max-width: 399px){
+    .h1_container{
+        width: 22rem; 
         
     }
     .h1_container h1{
-        font-size: 30px;
+        font-size: 24px;
         line-height: 40px;
     }
-    .p-text_content{
-        margin-top: 2px; 
-        width: 400px;
-    }
     .p-text{
-        font-size: 14px;
+       font-size: 12px;
+       width: 18rem;
+       margin-left: 210px;
+       margin-top: 25px;
+       
     }
+    .img-container{
+        width: 200px;
+        height: 200px;
+      }
     .link-btn a{
-        width: 370px;
-        font-size: 16px;
-    }
-    .link-btn-two a{
-        width: 370px;
-        font-size: 16px;
-    }
-    .icon-content{
-        margin-left: -5px;
+        width: 320px;
+        font-size: 12px;
     }
     .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
         width: 100vw;
+        font-size: 18px;
+    }
+    
+    #avaliacao{
+        width: 17rem;
+        height: fit-content;  
+    }
+    #avaliacao p{
+        font-size: 15px;
+    }
+    #Sobre-mim{
+        width: 17rem;
+        height: fit-content;
+    }
+    #Sobre-mim p{
+        font-size: 15px;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 20rem;
+        margin-left: 35px;
+        margin-bottom: 25px;
+        margin-top: -20px;
+    }
+    .p_etapas p{
+       font-size: 14px;
+    }
+    #funciona{
+        width: 12rem;
+        margin-left: 110px;
+    }
+    .number{
+        font-size: 30px;
+    }
+    .content_function{
+        margin-bottom: 85px;
+        margin-left: -35px;
+        
+    }
+    .info{
+        width: 16rem;
+    }
+    #sigilo{
+        width: 17rem;
+        height: fit-content;
+    }
+    .sigilo_infos{
+        width: 20rem;
+    }
+    #p_inf1{
+        font-size: 14px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 17rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 14px;
+    }
+    
+    .agendar{
+        width: 17rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 13px;
+        text-align: center;
+    }
+    .agendar p:nth-child(2){
+        font-size: 12px;
+    }
+    .link-btn-two a{
+        width: 300px;
+        font-size: 13px;
+    }
+    
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 22rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 17rem;
+    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 17rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 20px;
+        margin-left: -13px;
+    }
+    .question-div p:nth-child(2),
+    p:nth-child(4),
+    p:nth-child(6),
+    p:nth-child(8),
+    p:nth-child(10){
+        font-size: 18px;
+    }
+    .question-div p:nth-child(3),
+    p:nth-child(5),
+    p:nth-child(7),
+    p:nth-child(9),
+    p:nth-child(11){
+        font-size: 15px;
+}
+    .traço{
+        width: 350px;
+    }
+    
+    footer{
+        height: fit-content;
+    }
+    footer p:nth-child(1){
         font-size: 20px;
     }
-    #avaliacao{
-        width: 320px;
-        height: 300px;
-        margin-left: 20px;
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
     }
-   #Sobre-mim{
-    width: 320px;
-    height: 300px;
-    margin-left: 20px;
-   }
-   .p_etapas{
-    margin-top: -40px;
-   }
-   .p_etapas p{
-    font-size: 16px;
-   }
-  
-  .content_function{
-    width: 380px;
-    margin-bottom: 10px;
-    height: inherit;
-  }
-  .numbers .number {
-    font-size: 40px;
-    margin-top: -70px;
-  }
-  #sigilo{
-    width: 330px;
-    height: 300px;
-    margin-left: 15px;
-  }
-  .sigilo_infos{
-    width: 370px;
-  }
-  .sigilo_infos p:nth-child(1){
-    font-size: 18px;
-  }
-  .cfp{
-    width: 330px;
-    height: 150px;
-    margin-left: 15px;
-  }
-  .cfp p{
-    font-size: 15px;
-  }
-  .agendar{
-    width: 330px;
-    margin-left: 15px;
-  }
-  .agendar p:nth-child(1){
-    font-size: 16px;
-    text-align: center;
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 24rem;
+        align-self: center;
+        font-size: 16px;
+    }
 
-  }
-  .agendar p:nth-child(2){
-    font-size: 15px;
-    margin-top: -5px;
-    text-align: center;
-  }
-  .observation_content{
-    width: 380px;
-    height: 330px;
-    margin-left: 20px;
+}
+@media (min-width: 320px) and (max-width: 359px){
+    .h1_container{
+        width: 20rem; 
+        
+    }
+    .h1_container h1{
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .p-text{
+       font-size: 12px;
+       width: 16rem;
+       margin-left: 230px;
+       margin-top: 25px;
+       
+    }
+    .img-container{
+        width: 200px;
+        height: 200px;
+      }
+    .link-btn a{
+        width: 300px;
+        font-size: 12px;
+    }
+    .h2_reveal{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        font-size: 18px;
+    }
     
-  }
-  .obs-div-content{
-    width: inherit;
-    height: 330;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 15px;
-  }
-  .obs-content-one,
-  .obs-content-two{
-    width: 140px;
-    height: 130px;
-    border-radius: 10px;
-    border: 2px solid #e2e8f0;
+    #avaliacao{
+        width: 14rem;
+        height: fit-content;  
+    }
+    #avaliacao p{
+        font-size: 15px;
+    }
+    #Sobre-mim{
+        width: 14rem;
+        height: fit-content;
+    }
+    #Sobre-mim p{
+        font-size: 15px;
+    }
+    .p_etapas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 16rem;
+        margin-left: 35px;
+        margin-bottom: 30px;
+        margin-top: -20px;
+    }
+    .p_etapas p{
+       font-size: 14px;
+    }
+    #funciona{
+        width: 100vw;
+        margin-left: 5px;
+        padding: 15px;
+        
+    }
+    .number{
+        font-size: 22px;
+        margin-top: -100px;
+    }
+    .content_function{
+        margin-bottom: 120px;
+        
+    }
+    .info{
+        width: 14rem;
+    }
+    #sigilo{
+        width: 14rem;
+        height: fit-content;
+    }
+    .sigilo_infos{
+        width: 18rem;
+    }
+    #p_inf1{
+        font-size: 14px;
+    }
+    #p_inf{
+        font-size: 14px;
+    }
+    .cfp{
+        width: 14rem;
+    }
+    .cfp p:nth-child(1){
+        font-size: 12px;
+        font-weight: 600;
+    }
     
-  }
-  .obs-content-one p:nth-child(1){
-    font-size: 18px;
-    margin-top: -5px; 
-  }
-  .obs-content-one p:nth-child(2){
-    font-size: 15px;
-    line-height: 16px;
-    margin-top: 10px;
-  }
-  .obs-content-two p:nth-child(1){
-    font-size: 18px;
-    margin-top: -10px;
+    .agendar{
+        width: 14rem;
+        height:200px;
+    }
+    .agendar p:nth-child(1){
+        font-size: 12px;
+        text-align: center;
+    }
+    .agendar p:nth-child(2){
+        font-size: 10px;
+        font-weight: 600;
+    }
+    .link-btn-two a{
+        width: 250px;
+        font-size: 10px;
+    }
     
-  }
-  .obs-content-two p:nth-child(2){
-    font-size: 15px;
-    line-height: 16px;
-  }
-  .obs-content-three p:nth-child(1){
-    font-size: 18px;
+    .observation_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 500px;
+        
+    }
+    .obs-div-content{
+        width: 20rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+    .obs-content-one,
+    .obs-content-two,
+    .obs-content-three{
+        width: 14rem;
+    }
+    .obs-content-one p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-one p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-two p:nth-child(1){
+        font-size: 16px;
+        
+        white-space: nowrap;
+        
+      }
+      .obs-content-two p:nth-child(2){
+       font-size: 14px;
+      }
+      .obs-content-three p:nth-child(1){
+        font-size: 16px;
+      }
+      .obs-content-three p:nth-child(2){
+        font-size: 14px;
+       
+      }
+    .questions{
+        width: 14rem;
+        height: fit-content;
+    }
+    .question-div p:nth-child(1){
+        font-size: 18px;
+        margin-left: -13px;
+    }
+    .question-div p:nth-child(2),
+    p:nth-child(4),
+    p:nth-child(6),
+    p:nth-child(8),
+    p:nth-child(10){
+        font-size: 16px;
+    }
+    .question-div p:nth-child(3),
+    p:nth-child(5),
+    p:nth-child(7),
+    p:nth-child(9),
+    p:nth-child(11){
+        font-size: 14px;
+}
+    .traço{
+        width: 200px;
+    }
     
-  }
-  .obs-content-three{
-    grid-column: 1 / -1;
-    width: 340px;
-    height: 100px;
-  }
-  .questions{
-    width: 330px;
-    margin-left: 15px;
-  }
-  question-div{
-    width: 330px;
-  }
-  .question-div p:nth-child(1){
-    color:rgb(39, 80, 170);
-    font-size: 20px;
-    line-height: 24px;
-    font-weight: 500;
-  }
-  .question-div p:nth-child(2),
-  p:nth-child(4),
-  p:nth-child(6),
-  p:nth-child(8),
-  p:nth-child(10){
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 20px;
-    color:rgba(39, 80, 170, 0.8);
-  }
-  .question-div p:nth-child(3),
-  p:nth-child(5),
-  p:nth-child(7),
-  p:nth-child(9),
-  p:nth-child(11){
-  color: rgb(100, 116, 139);
-  font-size: 14px;
-  font-weight: 200;
-  line-height: 18px;
-  }
-  .footer_div_info{
-    gap: 5px;
-    margin-left: -25px;
-  }
-  .e-mail{
-    width: 180px;
-  }
-  .e-mail p:nth-child(1){
-    font-size: 14px;
-  }
-  .e-mail p:nth-child(2){
-    font-size: 12px;
-  }
-  .whatsApp p:nth-child(1){
-    font-size: 14px;
-  }
-  .whatsApp p:nth-child(2){
-    font-size: 12px;
-  }
-  .traço{
-    margin-left: -30px;
-  }
-  #final-p{
-    width: 400px;
-    font-size: 12px;
-    text-align: center;
-    margin-left: -5px;
-  }
+    footer{
+        height: fit-content;
+    }
+    footer p:nth-child(1){
+        font-size: 17px;
+    }
+    .footer_div_info{
+        display: flex;
+        flex-direction: column;
+    }
+    .whatsApp{
+        width: 300px;
+        margin-left: 10px;
+    }
+    #final-p{
+        width: 20rem;
+        align-self: center;
+        font-size: 14px;
+    }
 }
-@media (max-width: 375px){
-  .h1_container{
-    height: 130px;
-    width: 350px;
-  }
-  .h1_container h1{
-    font-size: 26px;
-  }
-  .p-text_content{
-    width: 300px;
-  }
-  .p-text{
-    font-size: 12px;
-  }
-  .img-container{
-    width: 200px;
-    height: 200px;
-
-  }
-  .img-container img{
-    width: inherit;
-    height: inherit;
-  }
-  .principal{
-    font-size: 12px;
-  }
-  .link-btn a{
-    width: 330px;
-    font-size: 14px;
-  }
-  #avaliacao{
-    width: 270px;
-    margin-right: 10px;
-  }
-  #avaliacao p:nth-child(1){
-    font-size: 14px;
-    margin-bottom: -5px;
-  }
-  #avaliacao p:nth-child(2){
-    font-size: 12px;
-  }
-  #Sobre-mim{
-    width: 270px;
-    margin-right: 10px;
-  }
-  #Sobre-mim p{
-    font-size: 12px;
-  }
-  .p_etapas{
-    margin-top: -40px;
-   }
-   .p_etapas p{
-    font-size: 14px;
-   }
-  
-  .content_function{
-    width: 330px;
-    margin-bottom: -20px;
-    height: inherit;
-    
-  }
-  .numbers .number {
-    font-size: 30px;
-    margin-top: -70px;
-  }
-  .info p:nth-child(1){
-    font-size: 16px;
-  }
-  .info p:nth-child(2){
-    font-size: 14px;
-  }
-  #sigilo{
-    width: 270px;
-    height: 220px;
-    margin-left: 20px;
-  }
-  #sigilo_infos{
-    width: 270px;
-    margin-left: 20px;
-  }
-  #p_inf1{
-    font-size: 14px;
-    text-align: center;
-    width: 300px;
-    margin-left: 25px;
-  }
-  #p_inf{
-    font-size: 12px;
-    width: 300px;
-    margin-left: 20px;
-  }
- 
-   .cfp{
-    width: 267px;
-    margin-left: 22px;
-   }
-   .cfp p:nth-child(1){
-    font-size: 14px;
-   }
-  .agendar{
-    width: 270px;
-  }
-  .agendar p:nth-child(1){
-    font-size: 14px;
-  }
-  .agendar p:nth-child(2){
-    font-size: 14px;
-  }
-  .link-btn-two a{
-    width: 300px;
-    font-size: 12px;
-  }
-
-  .observation_content{
-    margin-bottom: -50px;
-  }
-  .obs-div-content{
-    display: flex;
-    flex-direction: column;
-    width: 350px;
-    height: 350px;
-    margin-left: -40px;
-    gap: 5px;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 295px;
-    height: 70px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  .obs-content-one p:nth-child(1){
-    margin-top: 10px;
-    margin-bottom: -1px;
-  }
-  .obs-content-one p:nth-child(2){
-    line-height: -10px;
-  }
-  .questions{
-    width: 275px;
-    margin-left: 20px;
-    height: fit-content;
-    margin-bottom: -80px;
-  }
-
-  footer p:nth-child(1){
-    font-size: 22px;
-    margin-left: -30px;
-  }
-  .footer_div_info{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-  }
-  .whatsApp{
-    width: 300px;
-  }
-  .whatsApp p:nth-child(1){
-    margin-left: 1px;
-  }
-  .whatsApp p:nth-child(2){
-    font-size: 16px;
-  }
-  .e-mail{
-    width: 300px;
-    margin-left: -10px;
-  }
-  .e-mail p:nth-child(1){
-    margin-left: 1px;
-  }
-  .e-mail p:nth-child(2){
-    font-size: 16px;
-  }
-  .traço{
-    display: none;
-    
-  }
-  #final-p{
-    width: 300px;
-    margin-left: 25px;
-    font-size: 14px;
-    margin-top: 30px;
-    margin-bottom: 0px;
-  }
-}
-@media (max-width: 320px){
-  .h1_container{
-    width: 310px;
-    
-  }
-  .h1_container h1{
-    font-size: 22px;
-  }
-  .p-text{
-    font-size: 12px;
-  }
-  .link-btn a{
-    width: 300px;
-    margin-top: 50px;
-    font-size: 12px;
-  }
-  #avaliacao{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-  }
-  .info{
-    width: 270px;
-    margin-right: 40px;
-  }
-  #sigilo{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    padding: 2px;
-  }
-  #p_inf1{
-    font-size: 13px;
-    margin-left: -10px;
-  }
-  #p_inf{
-    width: 250px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -5px;
-  }
-  .cfp{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .link-btn-two a{
-    width: 280px;
-    margin-top: 50px;
-    font-size: 12px;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 250px;
-  }
-  .questions{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  footer p:nth-child(1){
-    font-size: 18px;
-  }
-  #final-p{
-    margin-left: -8px;
-  }
-}
-
-@media (min-width: 321px) and (max-width: 328px){
-  .h1_container{
-    width: 300px;
-  }
-  
-  .link-btn a{
-    width: 300px;
-    font-size: 12px;
-    margin-top: 40px;
-  }
-  #avaliacao{
-    width: 210px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 210px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-    margin-left: -20px;
-  }
-  .info{
-    width: 230px;
-  }
-  #sigilo{
-    width: 230px;
-  margin-left: 11px;
-  height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    
-  }
-  #p_inf{
-    width: 230px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -50px;
-    
-  }
-  #p_inf1{
-  width: 100%;
-  margin-left: -20px;
-  }
-  .cfp{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 230px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  
-  .link-btn-two a{
-    width: 270px;
-    font-size: 12px;
-  }
-  .obs-content-one,
-.obs-content-two,
-.obs-content-three{
-  width: 250px;
-  
-}
-.questions{
-  width: 235px;
-    margin-left: 11px;
-    height: fit-content;
-}
-footer p:nth-child(1){
-  font-size: 20px;
-}
-.whatsApp{
-  width: 250px;
-}
-.e-mail{
-  width: 250px;
-}
-#final-p{
-  margin-left: -5px;
-}
-}
-@media (min-width: 329px) and (max-width: 340px){
-  .h1_container{
-    width: 300px;
-  }
-  .link-btn a{
-    width: 300px;
-    font-size: 12px;
-    margin-top: 40px;
-  }
-  #avaliacao{
-    width: 220px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 220px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-    margin-left: -10px;
-  }
-  .info{
-    width: 220px;
-  }
-  #sigilo{
-    width: 240px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    padding: 2px;
-  }
-  #p_inf1{
-    font-size: 13px;
-    margin-left: -10px;
-  }
-  #p_inf{
-    width: 250px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -5px;
-  }
-  .cfp{
-    width: 240px;
-    margin-left: 11px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 230px;
-    margin-left: 15px;
-    height: fit-content;
-  }
-  .link-btn-two a{
-    width: 280px;
-    margin-top: 50px;
-    font-size: 12px;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 250px;
-    margin-left: 5px;
-  }
-  .questions{
-    width: 230px;
-    margin-left: 20px;
-    height: fit-content;
-  }
-  footer p:nth-child(1){
-    font-size: 18px;
-  }
-  #final-p{
-    margin-left: -8px;
-  }
-}
-@media (min-width: 341px) and (max-width: 353px){
-  .h1_container{
-    width: 300px;
-  }
-  .p-text{
-    width: 300px;
-  }
-  .link-btn a{
-    width: 300px;
-    font-size: 12px;
-    margin-top: 40px;
-  }
-  #avaliacao{
-    width: 235px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 235px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-    margin-left: -10px;
-  }
-  .info{
-    width: 220px;
-  }
-  #sigilo{
-    width: 240px;
-    margin-left: 15px;
-    height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    padding: 2px;
-  }
-  #p_inf1{
-    font-size: 13px;
-    margin-left: -10px;
-  }
-  #p_inf{
-    width: 250px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -5px;
-  }
-  .cfp{
-    width: 240px;
-    margin-left: 16px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 240px;
-    margin-left: 17px;
-    height: fit-content;
-  }
-  .link-btn-two a{
-    width: 280px;
-    margin-top: 50px;
-    font-size: 12px;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 260px;
-    margin-left: 7px;
-  }
-  .questions{
-    width: 233px;
-    margin-left: 25px;
-    height: fit-content;
-  }
-  footer p:nth-child(1){
-    font-size: 18px;
-  }
-  #final-p{
-    margin-left: -2px;
-  }
-}
-@media (min-width: 354px) and (max-width: 366px){
-  #avaliacao{
-    width: 250px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 250px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-    margin-left: -5px;
-  }
-  .info{
-    width: 240px;
-  }
-  #sigilo{
-    width: 260px;
-    margin-left: 15px;
-    height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    padding: 2px;
-  }
-  #p_inf1{
-    font-size: 13px;
-    margin-left: -10px;
-  }
-  #p_inf{
-    width: 250px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -5px;
-  }
-  .cfp{
-    width: 260px;
-    margin-left: 16px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 260px;
-    margin-left: 17px;
-    height: fit-content;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 280px;
-    margin-left: 5px;
-  }
-  .questions{
-    width: 255px;
-    margin-left: 20px;
-    height: fit-content;
-  }
-  #final-p{
-    margin-left: 7px;
-  }
-
-}
-@media (min-width: 367px) and (max-width: 373px){
-  #avaliacao{
-    width: 260px;
-    height: fit-content;
-  }
-  #Sobre-mim{
-    width: 260px;
-    height: fit-content;
-  }
-  #funciona{
-    width: fit-content;
-    height: fit-content;
-    margin-left: -5px;
-  }
-  .info{
-    width: 240px;
-  }
-  #sigilo{
-    width: 260px;
-    margin-left: 15px;
-    height: fit-content;
-  }
-  .sigilo_infos {
-    width: 260px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: -30px;
-    padding: 2px;
-  }
-  #p_inf1{
-    font-size: 13px;
-    margin-left: -10px;
-  }
-  #p_inf{
-    width: 250px;
-    font-size: 13px;
-    word-wrap: wrap;
-    word-break: break-all;
-    margin-left: -5px;
-  }
-  .cfp{
-    width: 260px;
-    margin-left: 16px;
-    height: fit-content;
-  }
-  .agendar{
-    width: 260px;
-    margin-left: 17px;
-    height: fit-content;
-  }
-  .obs-content-one,
-  .obs-content-two,
-  .obs-content-three{
-    width: 280px;
-    margin-left: 5px;
-  }
-  .questions{
-    width: 255px;
-    margin-left: 20px;
-    height: fit-content;
-  }
-  #final-p{
-    margin-left: 17px;
-  }
-}
-
-
- 
-
-
-
